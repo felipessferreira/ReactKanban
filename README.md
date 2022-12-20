@@ -1,6 +1,6 @@
 # ReactKanban
 
-Kanban Board, onde será possível:
+Kanban Board desenvolvido com React, onde será possível:
 
 - Adicionar tarefas na lista;
 - Atualizar tarefas já adicionadas;
